@@ -1,5 +1,4 @@
-{"zh-Hant": {
-
+{
 "booklet-01-paragraph-0001": "自由、社區與分散網絡",
 "booklet-01-paragraph-0002a": "",
 "booklet-01-paragraph-0003a": "我們的小網際網路",
@@ -35,9 +34,8 @@
 "booklet-01-paragraph-0014a": "",
 "booklet-01-paragraph-0014b": "說明文件 \n 我們的說明文件解釋了 LibreRouter 方面的使用，以及相關的應用程式。 \n 在我們的 docs.altermundi.net 網站上，所有說明文件都有以插圖、視聽形式，以及多種語言提供。 \n 任何人都可免費使用、複製、變動、翻譯，以及分享我們的內容。",
 "booklet-01-paragraph-0015a": "在您社區的網絡",
-"booklet-01-paragraph-0015b",
+"booklet-01-paragraph-0015b": "",
 "booklet-01-paragraph-0015c": "規劃 \n 部署 \n 維護",
-"booklet-01-paragraph-0015d",
+"booklet-01-paragraph-0015d": "",
 "booklet-01-paragraph-0016": "有關於社區網絡的專案嗎？ \n 請向我們聯絡。 \n 我們樂意加入您！ \n info@altermundi.net \n 更多資訊與文件 \n blog.altermundi.net \n docs.altermundi.net \n librerouter.org"
-}
 }

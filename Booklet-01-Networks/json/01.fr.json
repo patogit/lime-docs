@@ -1,4 +1,4 @@
-{"fr": {,
+{
 "booklet-01-paragraph-0001": "Réseaux libres, communautaires et décentralisés",
 "booklet-01-paragraph-0002a": "AlterMundi facilite la naissance de réseaux libres et communautaires connectés à Internet dans un but d’émancipation populaire basée sur l’appropriation de la technologie au moyen de collaboration entre pairs et l’utilisation et le développement de logiciel et de matériel libres. \n L’objectif principal est de développer un modèle de réseau pour la mise à disposition automatique de services de communication dans les régions numériquement exclues. \n Basé sur l’effort et l’organisation de la communauté, ce modèle offre l’opportunité de répondre à un besoin désormais considéré comme de base pour le développement humain : la communication numérique.",
 "booklet-01-paragraph-0003a": "Notre petite pièce d'internet",
@@ -34,9 +34,8 @@
 "booklet-01-paragraph-0014a": "Logiciel  \n Les applications et les programmes sont conçus comme des parties d'un processus dans lequel les gens sans connaissances sur les réseaux peuvent apprendre à configurer, déployer, gérer et dépanner le réseau avec facilité. \n Simplifier l'expansion du réseau. De nouveaux noeuds auto-configurables basés sur l'information qu'ils reçoivent des noeuds existants. \n Tout le logiciel développé par AlterMundi a une licence libre, aussi chacun peut l'utiliser et l'adapter à ses besoins.",
 "booklet-01-paragraph-0014b": "Documentation \n Notre documentation explique l'utilisation du LibreRouter et les applications associées. \n Sur notre site web docs.altermundi.net toute la documentation est disponible sous format illustré et audiovisuel en plusieurs langues. \n Chacun peut utiliser gratuitement, copier, modifier, traduire et partager notre contenu.",
 "booklet-01-paragraph-0015a": "Un réseau dans notre communauté",
-"booklet-01-paragraph-0015b",
+"booklet-01-paragraph-0015b": "",
 "booklet-01-paragraph-0015c": "Plannification  \n Déploiement \n Maintenance",
 "booklet-01-paragraph-0015d": "",
 "booklet-01-paragraph-0016": "Existe-t-il un projet communautaire ? \n Comptez sur nous. \n Nous aimerions beaucoup que vous nous rejoigniez! \n info@altermundi.net \n Davantage d'information et de documentation \n blog.altermundi.net \n docs.altermundi.net \n librerouter.org"
-}
 }
